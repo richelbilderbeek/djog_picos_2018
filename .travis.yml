@@ -18,10 +18,6 @@ install:
   # Qt5
   - sudo apt-get install -qq libqt5webkit5-dev qtdeclarative5-dev libqt5svg5*
   - export QMAKE=/usr/lib/x86_64-linux-gnu/qt5/bin/qmake
-  # Qt5 SVG
-  #- sudo apt-get install libqt5svg5-dev
-  # XRandR, else you get 'Failed to use the XRandR extension while trying to get the desktop video modes'
-  #- sudo apt-get install libxrandr-dev
   # cppcheck
   - sudo apt-get install -qq cppcheck
   # Codecov
@@ -29,10 +25,6 @@ install:
   - sudo pip install codecov
   # OCLint
   - ./install_oclint
-  # valgrind, for helgrind and memcheck
-  - sudo apt-get install -qq valgrind
-  # SLOCcount
-  - sudo apt-get install sloccount
 
 # Xenial
 services:
@@ -51,13 +43,6 @@ script:
   - codecov
   # Call OCLint
   - ./do_oclint
-  # SLOCcount
-  #   remove OCLint and .git, otherwise it will be counted as well
-  - rm -rf oclint-0.10.3 oclint-0.10.3-x86_64-linux-3.13.0-74-generic.tar.gz oclint.log
-  - rm -rf .git
-  - rm -rf debug
-  - rm -rf debug
-  - cd ..; sloccount --overhead 1 --personcost 22614 djog_picos_2018; cd djog_picos_2018
 
 after_success:
   # Codecov
