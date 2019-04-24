@@ -21,11 +21,11 @@ install:
   # Qt5 SVG
   - sudo apt-get install libqt5svg5-dev
   # SFML
-  - sudo apt-get install libsfml-dev
+  # - sudo apt-get install libsfml-dev
   # XRandR, else you get 'Failed to use the XRandR extension while trying to get the desktop video modes'
   - sudo apt-get install libxrandr-dev
   # clang-tidy
-  - sudo apt-get install -qq clang-3.8
+  # - sudo apt-get install -qq clang-3.8
   # cppcheck
   - sudo apt-get install -qq cppcheck
   # Codecov
@@ -33,8 +33,6 @@ install:
   - sudo pip install codecov
   # OCLint
   - ./install_oclint
-  # For the virtual X server
-  - sudo apt-get install libxrandr-dev
   # valgrind, for helgrind and memcheck
   - sudo apt-get install -qq valgrind
   # SLOCcount
@@ -44,16 +42,9 @@ install:
 services:
   - xvfb
 
-# Trusty
-# Start virtual X server
-# before_script:
-#  - "export DISPLAY=:99.0"
-#  - "sh -e /etc/init.d/xvfb start"
-#  - sleep 3 # give xvfb some time to start
-
 script: 
   # Bouw het project
-  - qmake -qt=qt5 djog_nanos_2018.pro
+  - qmake -qt=qt5 djog_picos_2018.pro
   - make --silent debug
   # Run het een beetje
   - ./djog_picos_2018
@@ -70,9 +61,7 @@ script:
   - rm -rf .git
   - rm -rf debug
   - rm -rf debug
-  - cd ..; sloccount --overhead 1 --personcost 22614 djog_nanos_2018; cd djog_nanos_2018
-  # clang-tidy
-  #- ./do_clang-tidy
+  - cd ..; sloccount --overhead 1 --personcost 22614 djog_picos_2018; cd djog_picos_2018
 
 after_success:
   # Codecov
