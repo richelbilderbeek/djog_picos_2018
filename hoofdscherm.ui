@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>hoofdscherm</class>
+ <widget class="QWidget" name="hoofdscherm">
+  <property name="windowTitle">
+   <string>Hoofdscherm, djog_picos_2018</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
