@@ -56,7 +56,7 @@ script:
   - qmake -qt=qt5 djog_nanos_2018.pro
   - make --silent debug
   # Run het een beetje
-  - ./djog_nanos_2018 --versie
+  - ./djog_picos_2018
   # cppcheck
   - cppcheck --error-exitcode=1 . 
   # Get code coverage
