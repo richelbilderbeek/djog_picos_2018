@@ -6,7 +6,7 @@ Een jongens draak.
 
 Met een meisjes draak.
 
-Ze waren verliefd op elkaar.
+Ze waren heel erg verliefd op elkaar.
 
 Die kregen verkering.
 
