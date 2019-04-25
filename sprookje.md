@@ -22,6 +22,8 @@ Die boom was al heel erg dik.
 
 En heel erg oud.
 
+Al wel 5000 jaar oud!
+
 En ze vlogen naar de wolk.
 
 En toen belden ze altijd precies op tijd aan!!!
