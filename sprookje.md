@@ -18,6 +18,8 @@ Die woonden in een boom.
 
 Een hele hoge boom.
 
+Wel 5 km hoog!!!!
+
 Die boom was al heel erg dik.
 
 En heel erg oud.
