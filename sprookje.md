@@ -28,7 +28,7 @@ En ze vlogen naar de wolk.
 
 En toen belden ze altijd precies op tijd aan!!!
 
-Dat vonden ze heel erg leuk.
+Het stelletje vonden ze heel erg leuk.
 
 Meestal Gingen ze draken koffie drinken.
 
