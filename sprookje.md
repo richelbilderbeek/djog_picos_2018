@@ -16,6 +16,8 @@ Soms kwamen de vaders en moeders op bezoek.
 
 Die woonden in een boom.
 
+Een hele hoge boom.
+
 En ze vlogen naar de wolk.
 
 En toen belden ze altijd precies op tijd aan!!!
