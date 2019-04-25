@@ -21,10 +21,9 @@ Hier een overzichtje:
  * `2.` `git add` en `git commit`: jouw veranderingen opslaan
  * `3.` `git push`: jouw code delen met de rest
  * `4.` `git pull`: jouw code updaten met het werk van de rest
- * `5.` De Daan truuk
- * `6.` `git status`: kijken op welke branch je zit
- * `7.` `git checkout richel`: ga naar jouw branch
- * `8.` `git merge develop`: merge develop naar jouw branch
+ * `5.` `git status`: kijken op welke branch je zit
+ * `6.` `git checkout richel`: ga naar jouw branch
+ * `7.` `git merge develop`: merge develop naar jouw branch
 
 Hieronder wordt het preciezer uitgelegd.
 
@@ -54,21 +53,21 @@ git config --global user.name; git config --global user.email
 In een terminal of in Git Bash, type:
 
 ```
-git clone https://github.com/richelbilderbeek/djog_nanos_2018
+git clone https://github.com/richelbilderbeek/djog_picos_2018
 ```
 
-Nu wordt er een map/folder/directory aangemaakt met de naam `djog_nanos_2018`.
+Nu wordt er een map/folder/directory aangemaakt met de naam `djog_picos_2018`.
 
 Om in die map te gaan (en dat wil je!), doe je:
 
 ```
-cd djog_nanos_2018
+cd djog_picos_2018
 ```
 
 
 ## 2. `git add` en `git commit`: jouw veranderingen opslaan
 
-In de folder `djog_nanos_2018` doe je:
+In de folder `djog_picos_2018` doe je:
 
 ```
 git add --all :/
@@ -77,7 +76,7 @@ git commit -m "Iets keislims"
 
 ## 3. `git push`: jouw code delen met de rest
 
-In de folder `djog_nanos_2018` doe je:
+In de folder `djog_picos_2018` doe je:
 
 ```
 git push
@@ -87,29 +86,13 @@ Als `git` een error geeft, update dan eerst jouw code (stap 4, hieronder).
 
 ## 4. `git pull`: jouw code updaten met het werk van de rest
 
-In de folder `djog_nanos_2018` doe je:
+In de folder `djog_picos_2018` doe je:
 
 ```
 git pull
 ```
 
-## 5. De Daan truuk: jouw veranderingen opslaan.
-
-In de folder `djog_nanos_2018` doe je:
-
-```
-clear && echo ComLine Door daan && sleep 1 && clear && echo __WIZARD__ echo Pulling... && sleep 1 && clear && git pull && clear && echo __WIZARD__ clear && clear && echo __WIZARD__ echo Pushing... && sleep 1 && git add --all :/ && git commit -m "Super Gave Dingen" && git push && clear && clear && echo __WIZARD__ echo Pushed!
-```
-
-dan doe je dit in je git bash:
-open het,
-ga naar de map djog nanos, (door `cd djog_nanos_2018` te doen)
-rechtermuisknop,
-plakken,
-enter,
-Gepusht!
-
-## 6. `git status`: kijken op welke branch je zit
+## 5. `git status`: kijken op welke branch je zit
 
 ![](git_branches.png)
 
@@ -117,11 +100,11 @@ Gepusht!
 git status
 ```
 
-## 7. `git checkout richel`: ga naar jouw branch
+## 6. `git checkout richel`: ga naar jouw branch
 
 
 
-In de folder `djog_nanos_2018` doe je:
+In de folder `djog_picos_2018` doe je:
 
 ```
 git checkout richel
@@ -140,9 +123,9 @@ Op `develop` staat de nieuwste versie om onze code.
 
 :warning:: vergeet niet `git pull` te doen 
 
-## 8. `git merge develop`: merge develop naar jouw branch
+## 7. `git merge develop`: merge develop naar jouw branch
 
-In de folder `djog_nanos_2018` doe je, als je op jouw branch zit:
+In de folder `djog_picos_2018` doe je, als je op jouw branch zit:
 
 ```
 git merge develop
