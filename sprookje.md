@@ -14,6 +14,8 @@ Ze gingen op een wolk wonen.
 
 Soms kwamen de vaders en moeders op bezoek.
 
+Die woonden in een boom.
+
 Dat vonden ze heel erg leuk.
 
 En ze leefden nog lang en gelukkig!
