@@ -28,7 +28,7 @@ En heel erg oud.
 
 Al wel 5000 jaar oud!
 
-En ze vlogen naar de wolk.
+Altijd als ze op bezoek kwamen vlogen ze naar de wolk.
 
 En toen belden ze altijd precies op tijd aan!!!
 
