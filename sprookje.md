@@ -18,7 +18,7 @@ Die woonden in een boom.
 
 En ze vlogen naar de wolk.
 
-En toen belden ze altijd precies op tijd aan!!
+En toen belden ze altijd precies op tijd aan!!!
 
 Dat vonden ze heel erg leuk.
 
