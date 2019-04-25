@@ -18,7 +18,7 @@ Die woonden in een hoge boom.
 
 Een hele hoge boom.
 
-Wel 5 km hoog!!!!
+Wel 10 km hoog!!!!
 
 Dat is wel heel erg hoog!
 
