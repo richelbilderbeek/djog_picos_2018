@@ -4,6 +4,8 @@ Er was eens een draak.
 
 Met een meisjes draak.
 
+Ze waren verliefd op elkaar.
+
 Die kregen verkering.
 
 Ze gingen op een wolk wonen.
