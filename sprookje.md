@@ -14,7 +14,7 @@ Ze gingen op een wolk wonen.
 
 Soms kwamen de vaders en moeders op bezoek.
 
-Die woonden in een boom.
+Die woonden in een hoge boom.
 
 Een hele hoge boom.
 
