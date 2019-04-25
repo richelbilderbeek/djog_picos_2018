@@ -20,6 +20,8 @@ Een hele hoge boom.
 
 Wel 5 km hoog!!!!
 
+Dat is wel heel erg hoog!
+
 Die boom was al heel erg dik.
 
 En heel erg oud.
