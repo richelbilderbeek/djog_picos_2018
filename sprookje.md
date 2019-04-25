@@ -18,6 +18,8 @@ Die woonden in een boom.
 
 Een hele hoge boom.
 
+Die boom was al heel erg dik.
+
 En ze vlogen naar de wolk.
 
 En toen belden ze altijd precies op tijd aan!!!
