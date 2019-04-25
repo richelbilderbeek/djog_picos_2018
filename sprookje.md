@@ -8,7 +8,7 @@ Met een meisjes draak.
 
 Ze waren heel erg verliefd op elkaar.
 
-Die kregen verkering.
+Die kregen verkering. Hartje!
 
 Ze gingen op een wolk wonen.
 
