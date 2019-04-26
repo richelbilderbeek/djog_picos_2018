@@ -12,7 +12,7 @@ Die kregen verkering. Hartje!
 
 Ze gingen op een hoge wolk wonen.
 
-Soms kwamen de vaders en moeders op bezoek.
+Soms kwamen de familie op bezoek.
 
 Die woonden in een heel erg hoge boom.
 
