@@ -4,7 +4,7 @@ Er was eens een draak.
 
 Een jongens draak.
 
-Met een meisjes draak.
+Er was ook een meisjes draak.
 
 Ze waren heel erg verliefd op elkaar.
 
