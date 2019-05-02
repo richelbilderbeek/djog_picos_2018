@@ -48,6 +48,8 @@ Om uit te vinden wie `git` denkt dat je bent:
 git config --global user.name; git config --global user.email
 ```
 
+:warning: Op Windows moet je ook naar Referentiebeheer gaan om dit in te stellen
+
 ## 1. `git clone`: klonen van de repo
 
 In een terminal of in Git Bash, type:
