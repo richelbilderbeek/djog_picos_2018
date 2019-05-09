@@ -20,13 +20,13 @@ Een hele hoge boom.
 
 Wel 1000000 km hoog!!!!
 
-Dat is wel heel erg hoog!
+Dat is wel heel erg hoog!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
 
 Die boom was al heel erg dik.
 
 En heel erg oud.
 
-Al wel 5000000000 jaar oud!
+Al wel 5000000000 jaar oud!!!!!!!!!!!!!!
 
 Altijd als ze op bezoek kwamen vlogen ze naar de wolk.
 
