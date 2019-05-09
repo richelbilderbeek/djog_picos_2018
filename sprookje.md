@@ -6,27 +6,27 @@ Een jongens draak.
 
 Er was ook een meisjes draak.
 
-Ze waren heel erg verliefd op elkaar.
+Ze waren super erg verliefd op elkaar.
 
 Die kregen verkering. Hartje!!!
 
 Ze gingen op een hele hoge wolk wonen.
 
-Best wel vaak kwam de familie op bezoek.
+Best wel super vaak vaak kwam de familie op bezoek.
 
 Die woonden in een heel erg hoge boom.
 
-Een hele hoge boom...
+Een hele hoge boom............................................. nog steeds niet boven...
 
-Wel 1000000 km hoog!!!!
+Wel 10000000000000000000000000000000 km hoog!!!!
 
-Dat is wel heel erg hoog!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
+Dat is wel heel erg hoog!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Die boom was al heel erg dik.
 
 En heel erg oud.
 
-Al wel 5000000000 jaar oud!!!!!!!!!!!!!!
+Al wel 5000000000 jaar oud!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Altijd als ze op bezoek kwamen vlogen ze naar de wolk.
 
