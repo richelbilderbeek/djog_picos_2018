@@ -6,7 +6,7 @@ Een jongens draak.
 
 Er was ook een meisjes draak.
 
-Ze waren super erg verliefd op elkaar.
+Ze waren super ergg verliefd op elkaar.
 
 Die kregen verkering. Hartje!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
