@@ -18,9 +18,9 @@ Die woonden in een heel erg hoge boom.
 
 Een hele hoge boom.........................................................................nog steeds niet boven......Bijna ja nu.
 
-Wel 100000000000000000000000000000000000000000000000000000 km hoog!!!!!!
+Wel 1000000000000000000000000000000000000000000000000000000 km hoog!!!!!!
 
-Dat is wel heel erg hoog!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Dat is wel heel erg hoog!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Die boom was al heel erg dik.
 
