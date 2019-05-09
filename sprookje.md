@@ -8,7 +8,7 @@ Er was ook een meisjes draak.
 
 Ze waren super erg verliefd op elkaar.
 
-Die kregen verkering. Hartje!!!
+Die kregen verkering. Hartje!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Ze gingen op een hele hoge wolk wonen.
 
