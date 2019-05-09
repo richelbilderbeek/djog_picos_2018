@@ -1,5 +1,6 @@
 # djog_picos_2018
 
+
 ![Logo van De Jonge Onderzoekers Groningen](plaatjes/djog.png)
 
 [![IRC Network](https://img.shields.io/badge/irc-%23djog_picos_2018-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=djog_picos_2018)
