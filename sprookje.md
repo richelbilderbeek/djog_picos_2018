@@ -6,9 +6,9 @@ Een jongens draak.
 
 Er was ook een meisjes draak.
 
-Ze waren super erg verliefd op elkaar.
+Ze waren super ergg verliefd op elkaar.
 
-Die kregen verkering. Hartje!!!
+Die kregen verkering. Hartje!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Ze gingen op een hele hoge wolk wonen.
 
@@ -16,9 +16,9 @@ Best wel super vaak vaak kwam de familie op bezoek.
 
 Die woonden in een heel erg hoge boom.
 
-Een hele hoge boom............................................. nog steeds niet boven...
+Een hele hoge boom.........................................................................nog steeds niet boven......Bijna ja nu.
 
-Wel 10000000000000000000000000000000 km hoog!!!!
+Wel 100000000000000000000000000000000000000000000000000000 km hoog!!!!!!
 
 Dat is wel heel erg hoog!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -34,7 +34,7 @@ En toen belden ze altijd precies op tijd aan!!!
 
 Het stelletje vonden ze heel erg leuk.
 
-Meestal Gingen ze draken koffie drinken.
+Meestal Gingen ze draken koffie of/en thee drinken.
 
 En ze leefden nog lang en gelukkig!
 
