@@ -33,9 +33,8 @@ Branch|[![Travis CI logo](plaatjes/travis.png)](https://travis-ci.org)|[![Codeco
 
 `bas`|[![Build Status](https://travis-ci.org/bas/djog_picos_2018.svg?branch=bas)](https://travis-ci.org/bas/djog_picos_2018/branches) | [![codecov.io](https://codecov.io/github/bas/djog_picos_2018/coverage.svg?branch=bas)](https://codecov.io/github/bas/djog_picos_2018?branch=bas)
 `richel`|[![Build Status](https://travis-ci.org/richelbilderbeek/djog_picos_2018.svg?branch=richel)](https://travis-ci.org/richelbilderbeek/djog_picos_2018/branches) | [![codecov.io](https://codecov.io/github/richelbilderbeek/djog_picos_2018/coverage.svg?branch=richel)](https://codecov.io/github/richelbilderbeek/djog_picos_2018?branch=richel)
-`richel, Quinn`Rohan|[![Build Status](https://travis-ci.org/richelbilderbeek/djog_picos_2018.svg?branch=richel)](https://travis-ci.org/richelbilderbeek/djog_picos_2018/branches) | [![codecov.io](https://codecov.io/github/richelbilderbeek/djog_picos_2018/coverage.svg?branch=richel)](https://codecov.io/github/richelbilderbeek/djog_picos_2018?branch=richel)
+`seb`|[![Build Status](https://travis-ci.org/richelbilderbeek/djog_picos_2018.svg?branch=seb)](https://travis-ci.org/richelbilderbeek/djog_picos_2018/branches) | [![codecov.io](https://codecov.io/github/richelbilderbeek/djog_picos_2018/coverage.svg?branch=seb)](https://codecov.io/github/richelbilderbeek/djog_picos_2018?branch=seb)
 =======
-`richel, Quinn, Rohan`|[![Build Status](https://travis-ci.org/richelbilderbeek/djog_picos_2018.svg?branch=richel)](https://travis-ci.org/richelbilderbeek/djog_picos_2018/branches) | [![codecov.io](https://codecov.io/github/richelbilderbeek/djog_picos_2018/coverage.svg?branch=richel)](https://codecov.io/github/richelbilderbeek/djog_picos_2018?branch=richel)
 >>>>>>> 53bd92126ab957fd3b89b1d4e70f439894e07351
 >>>>>>> 0abfd0b27220d51e75ab0397e7f90284d74e9308
 
