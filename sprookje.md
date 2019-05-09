@@ -20,7 +20,7 @@ Een hele hoge boom...
 
 Wel 10000000000000000000000000000000 km hoog!!!!
 
-Dat is wel heel erg hoog!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
+Dat is wel heel erg hoog!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Die boom was al heel erg dik.
 
