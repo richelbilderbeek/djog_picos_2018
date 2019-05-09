@@ -52,3 +52,6 @@ Samen een game maken.
 ## Links
 
  * [Dojo](https://github.com/richelbilderbeek/Dojo)
+ * B
+ * C
+
