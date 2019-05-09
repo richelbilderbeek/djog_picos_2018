@@ -25,8 +25,8 @@ De `git` branches van de teamleden (op alfabet):
 
 Branch|[![Travis CI logo](plaatjes/travis.png)](https://travis-ci.org)|[![Codecov logo](plaatjes/codecov.png)](https://www.codecov.io)
 ---|---|---
-`richel, Quinn`|[![Build Status](https://travis-ci.org/richelbilderbeek/djog_picos_2018.svg?branch=richel)](https://travis-ci.org/richelbilderbeek/djog_picos_2018/branches) | [![codecov.io](https://codecov.io/github/richelbilderbeek/djog_picos_2018/coverage.svg?branch=richel)](https://codecov.io/github/richelbilderbeek/djog_picos_2018?branch=richel)
-(https://codecov.io/github/richelbilderbeek/djog_picos_2018?branch=rohan)
+`richel, Quinn`Rohan|[![Build Status](https://travis-ci.org/richelbilderbeek/djog_picos_2018.svg?branch=richel)](https://travis-ci.org/richelbilderbeek/djog_picos_2018/branches) | [![codecov.io](https://codecov.io/github/richelbilderbeek/djog_picos_2018/coverage.svg?branch=richel)](https://codecov.io/github/richelbilderbeek/djog_picos_2018?branch=richel)
+
 
 ## Doel
 
