@@ -26,7 +26,7 @@ Die boom was al heel erg dik.
 
 En heel erg oud.
 
-Al wel 5000000000 jaar oud!!!!!!!!!!!!!!
+Al wel 5000000000 jaar oud!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Altijd als ze op bezoek kwamen vlogen ze naar de wolk.
 
