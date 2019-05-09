@@ -20,7 +20,11 @@ Een hele hoge boom..............................................................
 
 Wel 1000000000000000000000000000000000000000000000000000 km hoog!!!!!!
 
+<<<<<<< HEAD
 Dat is wel heel erg hoog!
+=======
+Dat is wel heel erg hoog!!!!!
+>>>>>>> cfad0c546621f7a68bbe791f55ba5c0ce7a24a69
 
 Die boom was al heel erg dik.
 
