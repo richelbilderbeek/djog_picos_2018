@@ -10,7 +10,7 @@ Ze waren heel erg verliefd op elkaar.
 
 Die kregen verkering. Hartje!
 
-Ze gingen op een hoge wolk wonen.
+Ze gingen op een hele hoge wolk wonen.
 
 Best wel vaak kwam de familie op bezoek.
 
