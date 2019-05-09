@@ -16,7 +16,7 @@ Best wel vaak kwam de familie op bezoek.
 
 Die woonden in een heel erg hoge boom.
 
-Een hele hoge boom.
+Een hele hoge boom...
 
 Wel 1000000 km hoog!!!!
 
