@@ -1,19 +1,14 @@
 # djog_picos_2018
 
-
 ![Logo van De Jonge Onderzoekers Groningen](plaatjes/djog.png)
 
 [![IRC Network](https://img.shields.io/badge/irc-%23djog_picos_2018-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=djog_picos_2018)
 
-Gezamelijk project van de jongere/tieners 
-op de donderdagavond van de [Dojo](https://github.com/richelbilderbeek/Dojo) in schooljaar 2018-2019.
+![](plaatjes/team_facilis.png)
 
-## TODO:
-
- * GitHub accounts maken voor teamleden
- * Teamnaam
- * Wat voor soort game?
-
+Gezamelijk project van Team Facilis, 
+op de donderdagavond van de [Dojo](https://github.com/richelbilderbeek/Dojo) 
+in schooljaar 2018-2019.
 
 De twee belangrijkste `git` branches:
 
@@ -42,7 +37,7 @@ Branch|[![Travis CI logo](plaatjes/travis.png)](https://travis-ci.org)|[![Codeco
 
 ## Doel
 
-Samen een game maken.
+Samen een game maken, gebaseerd op [Vuurjongen en watermeisje](https://fireboy-and-watergirl.com/).
 
   * [gedrag](doc/gedrag.md)
   * [git](doc/git.md)
