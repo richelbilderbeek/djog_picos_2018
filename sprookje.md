@@ -36,7 +36,7 @@ Die woonden in een heel erg hoge boom.
 
 
 
-Een hele hoge boom.........................................................nog steeds niet boven.....Bijna ja ben je boven!
+Een hele hoge boom..........................................................nog steeds niet boven.....Bijna ja ben je boven!
 
 
 
