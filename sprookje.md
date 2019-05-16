@@ -18,7 +18,7 @@ Best wel super vaak kwam de familie op bezoek...................................
 
 Die woonden in een heel erg hoge boom.
 
-Een hele hoge boom.........................nog steeds niet boven.....Bijna ja ben je boven!
+Een hele hoge boom.........................................................nog steeds niet boven.....Bijna ja ben je boven!
 
 Wel 190000000000000000000000000000 km hoog!!!!!!
 
