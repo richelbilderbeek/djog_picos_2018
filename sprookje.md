@@ -12,13 +12,13 @@ Die kregen verkering Hartje!!!!!!!!
 
 Dat is wel zo he!
 
-Ze gingen op een hele hoge wolk wonen.................bijna boven....................nu boven!!
+Ze gingen op een hele hoge wolk wonen.................bijna boven..nu boven!!
 
 Best wel super vaak kwam de familie op bezoek................
 
 Die woonden in een heel erg hoge boom.
 
-Een hele hoge boom.................................................nog steeds niet boven.....Bijna ja ben je boven!
+Een hele hoge boom.........................nog steeds niet boven.....Bijna ja ben je boven!
 
 Wel googleplexplex km hoog!!!!!!
 
