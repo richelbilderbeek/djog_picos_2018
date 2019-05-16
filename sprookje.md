@@ -22,7 +22,7 @@ Wel 1000000000000000000000000000000000000000000000000000000000000000000000000000
 
 Dat is wel heel erg hoog!!!
 
-Dat is wwel zo he!
+Dat is wel zo he!
 
 Die boom was al heel erg dik.
 
@@ -38,8 +38,10 @@ Het stelletje vonden ze heel erg leuk.
 
 Meestal Gingen ze draken koffie of/en thee drinken.
 
-En ze leefden nog lang en gelukkig!
+maar op een dag ging er iets fout op een bliksem fits en de Russische draak die heel sterk was werd  geraakt hij zei dat het niks was maar een dag later werd hij ziek en storf  
+
+En en de meisjes draak leefden nog lang en verdrietig 
 
 EINDE!!!!!!!!!
 
-Door: QuintinoM2!!!!!!!!
+Door: QuintinoM2, Superjump08!!!!!!!!
