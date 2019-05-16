@@ -18,7 +18,7 @@ Ze waren super erg verliefd op elkaar.
 
 
 
-Die kregen verkering.Hartje!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Die kregen verkering Hartje!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
