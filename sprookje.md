@@ -20,7 +20,9 @@ Een hele hoge boom.nog steeds niet boven......Bijna ja nu.
 
 Wel 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 km hoog!!!!!!
 
-Dat is wel heel erg hoog!
+Dat is wel heel erg hoog!!!
+
+Dat is wwel zo he!
 
 Die boom was al heel erg dik.
 
