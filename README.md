@@ -21,19 +21,9 @@ De `git` branches van de teamleden (op alfabet):
 
 Branch|[![Travis CI logo](plaatjes/travis.png)](https://travis-ci.org)|[![Codecov logo](plaatjes/codecov.png)](https://www.codecov.io)
 ---|---|---
-<<<<<<< HEAD
-`richel|[![Build Status](https://travis-ci.org/richelbilderbeek/djog_picos_2018.svg?branch=richel)](https://travis-ci.org/richelbilderbeek/djog_picos_2018/branches) | [![codecov.io](https://codecov.io/github/richelbilderbeek/djog_picos_2018/coverage.svg?branch=richel)](https://codecov.io/github/richelbilderbeek/djog_picos_2018?branch=richel)
-`seb`|[![Build Status](https://travis-ci.org/richelbilderbeek/djog_picos_2018.svg?branch=seb)](https://travis-ci.org/richelbilderbeek/djog_picos_2018/branches) | [![codecov.io](https://codecov.io/github/richelbilderbeek/djog_picos_2018/coverage.svg?branch=seb)](https://codecov.io/github/richelbilderbeek/djog_picos_2018?branch=seb)
-=======
-<<<<<<< HEAD
-
 `bas`|[![Build Status](https://travis-ci.org/bas/djog_picos_2018.svg?branch=bas)](https://travis-ci.org/bas/djog_picos_2018/branches) | [![codecov.io](https://codecov.io/github/bas/djog_picos_2018/coverage.svg?branch=bas)](https://codecov.io/github/bas/djog_picos_2018?branch=bas)
 `richel`|[![Build Status](https://travis-ci.org/richelbilderbeek/djog_picos_2018.svg?branch=richel)](https://travis-ci.org/richelbilderbeek/djog_picos_2018/branches) | [![codecov.io](https://codecov.io/github/richelbilderbeek/djog_picos_2018/coverage.svg?branch=richel)](https://codecov.io/github/richelbilderbeek/djog_picos_2018?branch=richel)
 `seb`|[![Build Status](https://travis-ci.org/richelbilderbeek/djog_picos_2018.svg?branch=seb)](https://travis-ci.org/richelbilderbeek/djog_picos_2018/branches) | [![codecov.io](https://codecov.io/github/richelbilderbeek/djog_picos_2018/coverage.svg?branch=seb)](https://codecov.io/github/richelbilderbeek/djog_picos_2018?branch=seb)
-=======
->>>>>>> 53bd92126ab957fd3b89b1d4e70f439894e07351
->>>>>>> 0abfd0b27220d51e75ab0397e7f90284d74e9308
-
 
 ## Doel
 
@@ -52,6 +42,4 @@ Samen een game maken, gebaseerd op [Vuurjongen en watermeisje](https://fireboy-a
 ## Links
 
  * [Dojo](https://github.com/richelbilderbeek/Dojo)
- * B
- * C
-
+ * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners)
