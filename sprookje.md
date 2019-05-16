@@ -42,7 +42,7 @@ Meestal Gingen ze draken koffie ofslashen thee drinken.
 
 maar op een dag ging er iets fout op een bliksem fits en de Russische draak die heel sterk was werd  geraakt hij zei dat het niks was maar een dag later werd hij ziek en storf  
 
-En en de meisjes draak leefden nog lang en verdrietig 
+En en de meisjes draak leefde nog lang en verdrietig 
 
 EINDE!!!!!!!!!!
 
