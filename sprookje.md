@@ -26,7 +26,7 @@ Dat is wel zo he!
 
 
 
-Ze gingen op een hele hoge wolk wonen.................bijna boven..nu boven!!
+Ze gingen op een hele hoge wolk wonen.................bijna boven.............................nu boven!!
 
 
 
