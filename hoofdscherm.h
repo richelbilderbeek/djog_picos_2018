@@ -15,6 +15,10 @@ public:
   explicit hoofdscherm(QDialog *parent = 0);
   ~hoofdscherm();
 
+protected:
+
+  void keyPressEvent(QKeyEvent *);
+
 private:
   Ui::hoofdscherm *ui;
 };
