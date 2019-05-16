@@ -30,7 +30,7 @@ Branch|[![Travis CI logo](plaatjes/travis.png)](https://travis-ci.org)|[![Codeco
 Samen een game maken, gebaseerd op [Vuurjongen en watermeisje](https://fireboy-and-watergirl.com/).
 
   * [gedrag](doc/gedrag.md)
-  * [git](doc/git.md)
+  * [git](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
   * [planning](doc/planning.md)
   * [team](team/README.md)
   * [video's](doc/videos.md)
