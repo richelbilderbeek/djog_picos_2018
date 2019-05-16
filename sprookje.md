@@ -4,7 +4,7 @@ Er was eens een Russische draak die heel sterk was.
 
 Een jongens draak.
 
-Er was ook een meisjes draak.
+Er was ook een meisjes draak uit Limburg.
 
 Ze waren super erg verliefd op elkaar.
 
