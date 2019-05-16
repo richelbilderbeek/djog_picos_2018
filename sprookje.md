@@ -10,7 +10,7 @@ Ze waren super erg verliefd op elkaar.
 
 Die kregen verkering. Hartje!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-Ze gingen op een hele hoge wolk wonen.
+Ze gingen op een hele hoge wolk wonen..................bijna boven....................nu boven!!
 
 Best wel super vaak vaak kwam de familie op bezoek.................
 
