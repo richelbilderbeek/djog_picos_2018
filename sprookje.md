@@ -1,6 +1,6 @@
 Het Sprookje!
 
-Er was eens een draak.
+Er was eens een Russische draak.
 
 Een jongens draak.
 
