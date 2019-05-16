@@ -20,7 +20,7 @@ Die woonden in een heel erg hoge boom.
 
 Een hele hoge boom.........................nog steeds niet boven.....Bijna ja ben je boven!
 
-Wel googleplexplex km hoog!!!!!!
+Wel 190000000000000000000000000000 km hoog!!!!!!
 
 Dat is wel heel erg hoog!!!!
 
