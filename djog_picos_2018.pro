@@ -14,16 +14,15 @@ SOURCES += main.cpp
 CONFIG += c++14
 QMAKE_CXXFLAGS += -std=c++14
 
-# High warning levels
-# SFML goes bad with -Weffc++
+# High warning level, warnings are errors
 QMAKE_CXXFLAGS += -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic
+QMAKE_CXXFLAGS += -Werror
 
-# -Werror
 
-unix:!macx {
-  # Fix error: unrecognized option '--push-state--no-as-needed'
-  QMAKE_LFLAGS += -fuse-ld=gold
-}
+#unix:!macx {
+#  # Fix error: unrecognized option '--push-state--no-as-needed'
+#  QMAKE_LFLAGS += -fuse-ld=gold
+#}
 
 # Debug and release settings
 CONFIG += debug_and_release
@@ -57,10 +56,6 @@ CONFIG(debug, debug|release) {
   }
 }
 
-# High warning level, warnings are errors
-QMAKE_CXXFLAGS += -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic
-QMAKE_CXXFLAGS += -Werror
-
 # Qt5
 QT += core gui widgets
 
@@ -77,4 +72,7 @@ QMAKE_CXXFLAGS += -fext-numeric-literals
 # qrc_[*].cpp:400:44: error: 'qInitResources_[*]__init_variable__' defined but not used
 # [*]: the resource filename
 QMAKE_CXXFLAGS += -Wno-unused-variable
+
+RESOURCES += \
+    djog_picos_2018.qrc
 

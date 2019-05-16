@@ -35,6 +35,10 @@ Samen een game maken, gebaseerd op [Vuurjongen en watermeisje](https://fireboy-a
   * [team](team/README.md)
   * [video's](doc/videos.md)
 
+## Sprites
+
+ * Van [hier](http://www.videogamesprites.net/ChronoTrigger/Enemies/Prehistoric/1.html)
+
 ## Voortgang
 
 ...
