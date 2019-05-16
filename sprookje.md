@@ -36,7 +36,7 @@ En toen belden ze altijd precies op tijd aan!!!
 
 Het stelletje vonden ze heel erg leuk.
 
-Meestal Gingen ze draken koffie of/en thee drinken.
+Meestal Gingen ze draken koffie ofslashen thee drinken.
 
 En ze leefden nog lang en gelukkig!
 
