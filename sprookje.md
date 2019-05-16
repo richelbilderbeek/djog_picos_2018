@@ -64,6 +64,7 @@ Altijd als ze op bezoek kwamen vlogen ze naar de wolk.
 
 
 
+<<<<<<< HEAD
 En toen belden ze altijd precies op tijd aan!!!
 
 
@@ -80,6 +81,17 @@ Maar op een dag ging er iets fout op een bliksem fits en de Russische draak die 
 En en de meisjes draak leefden nog lang en gelukkig wat ze hield eigenlijk helemaal niet van die draak. 
 
 
+=======
+Meestal Gingen ze draken koffie of slashen thee drinken.
+
+maar op een dag ging er iets fout op een bliksem fits en de Russische draak die heel sterk was werd  geraakt hij zei dat het niks was maar een dag later werd hij ziek en storf  
+
+<<<<<<< HEAD
+En en de meisjes draak leefde nog lang en verdrietig 
+=======
+En en de meisjes draak leefden nog lang en gelukkig wat ze hield eigenlijkhellemaal niet van die draak 
+>>>>>>> 56aa67fb96d72f780d4252ca90081dcfbed3a5dc
+>>>>>>> ed675f540c8172247b14d7f9e3ecf436cc6db77f
 
 EINDE!!!!!!!!!!
 
