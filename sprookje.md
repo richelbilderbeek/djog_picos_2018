@@ -12,7 +12,7 @@ Die kregen verkering. Hartje!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Ze gingen op een hele hoge wolk wonen.
 
-Best wel super vaak vaak kwam de familie op bezoek.
+Best wel super vaak vaak kwam de familie op bezoek.................
 
 Die woonden in een heel erg hoge boom.
 
