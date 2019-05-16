@@ -2,7 +2,7 @@ Het Sprookje!
 
 
 
-Er was eens een Russische draak die heel sterk was.
+Er was eens een Russische draak die heel slap was.
 
 
 
