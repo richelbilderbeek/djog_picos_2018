@@ -40,7 +40,7 @@ Samen een game maken, gebaseerd op [Vuurjongen en watermeisje](https://fireboy-a
 
 ## Voortgang
 
-...
+![](plaatjes/20190606.png)
 
 ## Links
 
