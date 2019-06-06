@@ -21,7 +21,7 @@ Het stelletje vonden ze heel erg leuk.
 
 Meestal Gingen ze draken koffie of slashen thee drinken.
 
-Maar op een dag ging er iets fout op een bliksem fits en de Russische draak die heel slap was werd geraakt hij zei dat het niks was maar een dag later werd hij ziek en storf  
+Maar op een dag ging er iets fout op een bliksem fits en de Russische draak die heel slap was werd geraakt hij zei dat het niks was maar een dag later werd hij ziek en stierf  
 
 En en de meisjes draak leefden nog lang en gelukkig wat ze hield eigenlijk helemaal niet van die draak. 
 
@@ -35,4 +35,4 @@ En en de meisjes draak leefden nog lang en gelukkig wat ze hield eigenlijkhellem
 
 EINDE!!!!!!!!!!
 
-Door: QuintinoM2, Superjump08, Gruffalos!!!!!!!!!!!!
+Door: QuintinoM2, Superjump08, Gruffalos, bassie09!!!!!!!!!!!!
