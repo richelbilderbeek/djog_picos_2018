@@ -31,7 +31,8 @@ maar op een dag ging er iets fout op een bliksem fits en de Russische draak die 
 
 En en de meisjes draak leefde nog lang en verdrietig 
 
-En en de meisjes draak leefden nog lang en gelukkig wat ze hield eigenlijkhellemaal niet van die draak 
+En en de meisjes draak leefden nog lang en gelukkig wat ze hield eigenlijk hellemaal niet van die draak 
+dus zocht ze een stoere draak
 
 EINDE!!!!!!!!!!
 
