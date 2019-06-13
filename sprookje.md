@@ -20,7 +20,7 @@ Een hele hoge boom.
 
 Wel googolplexplex km hoog!
 
-Die boom was al heel erg dik.
+Die boom was ook al heel erg dik!
 
 En heel erg oud.
 
