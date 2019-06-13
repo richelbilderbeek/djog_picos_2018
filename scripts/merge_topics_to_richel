@@ -2,7 +2,7 @@
 git checkout richel
 git pull
 
-for branch in daan jasper jesper judith kyrill mees oliver quinn richel rohan seny
+for branch in bas mad-max seb rohan quinn richel
 do
   git checkout $branch
   git pull

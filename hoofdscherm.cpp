@@ -16,8 +16,16 @@ hoofdscherm::~hoofdscherm()
 
 void hoofdscherm::keyPressEvent(QKeyEvent * e)
 {
+  //Reageer op de toetsen:
+  //Omhoog
+
+  //Rechts
+
+  //Omlaag
+
+  //Links
   if (e->key() == Qt::Key_Left)
   {
-    ui->speler_1->setGeometry(ui->speler_1->geometry().adjusted(-10, 0, 0, 0));
+    ui->speler_1->setGeometry(ui->speler_1->geometry().adjusted(-64, 0, 0, 0));
   }
 }
