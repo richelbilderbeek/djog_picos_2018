@@ -14,7 +14,7 @@ Ze gingen op een hele hoge wolk wonen.
 
 Best wel super vaak kwam de familie op bezoek.
 
-Die woonden in een heel erg hoge boom.
+Die woonden in een heel erg hoge boom echt heel erg hoog!
 
 Een hele hoge boom.
 
