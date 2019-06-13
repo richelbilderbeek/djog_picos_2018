@@ -44,5 +44,6 @@ Samen een game maken, gebaseerd op [Vuurjongen en watermeisje](https://fireboy-a
 
 ## Links
 
- * [Dojo](https://github.com/richelbilderbeek/Dojo)
  * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners)
+ * [Dojo](https://github.com/richelbilderbeek/Dojo)
+ * [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
