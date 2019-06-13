@@ -9,7 +9,7 @@ Ze gingen op een hele hoge wolk wonen.
 Best wel super vaak kwam de familie op bezoek.
 Die woonden in een heel erg hoge boom.
 Een hele hoge boom.
-Wel 190000000000000000000000000000000000000 km hoog!
+Wel googolplexplex km hoog!
 Die boom was al heel erg dik.
 En heel erg oud.
 Al wel googleplexplex jaar oud!
