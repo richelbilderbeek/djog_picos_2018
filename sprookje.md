@@ -35,5 +35,3 @@ En en de meisjes draak leefden nog lang en gelukkig wat ze hield eigenlijk helle
 dus zocht ze een stoere draak....
 
 EINDE!!!!!!!!!!
-
-Door: QuintinoM2, Superjump08, Gruffalos, bassie09!!!!!!!!!!!!
