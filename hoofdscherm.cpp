@@ -20,6 +20,10 @@ void hoofdscherm::keyPressEvent(QKeyEvent * e)
   //Omhoog
 
   //Rechts
+  if (e->key() == Qt::Key_Right)
+  {
+    ui->speler_1->setGeometry(ui->speler_1->geometry().adjusted(64, 0, 0, 0));
+  }
 
   //Omlaag
 
