@@ -2,7 +2,7 @@
 git checkout richel
 git pull
 
-for branch in bas mad-max quinn Quinn richel rohan seb truus
+for branch in bas mad-max quinn Quinn richel rohan seb tom truus
 do
   git checkout $branch
   git pull
