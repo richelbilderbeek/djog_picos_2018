@@ -16,8 +16,8 @@
   <widget class="QLabel" name="speler_1">
    <property name="geometry">
     <rect>
-     <x>70</x>
-     <y>240</y>
+     <x>240</x>
+     <y>160</y>
      <width>64</width>
      <height>64</height>
     </rect>
