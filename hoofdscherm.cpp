@@ -25,6 +25,15 @@ void hoofdscherm::keyPressEvent(QKeyEvent * e)
       ui->speler_1->y() - 10
     );
   }
+  // Als de speler aan de bovenkant het scherm uitgaat ...
+  if (ui->speler_1->y() < 0)
+  {
+    // ... dan moet 'ie iets omlaag worden gezet
+    ui->speler_1->move(
+       ui->speler_1->x(),
+       ui->speler_1->y() + 10
+    );
+ }
   //Rechts
   if (e->key() == Qt::Key_Right)
   {
@@ -33,6 +42,13 @@ void hoofdscherm::keyPressEvent(QKeyEvent * e)
       ui->speler_1->y()
       );
   }
+  if (ui->speler_1->x() > this->width())
+  {
+    ui->speler_1->move(
+      ui->speler_1->x() - 10,
+      ui->speler_1->y()
+          );
+ }
   //Omlaag
   if (e->key() == Qt::Key_Down)
   {
@@ -41,6 +57,15 @@ void hoofdscherm::keyPressEvent(QKeyEvent * e)
       ui->speler_1->y() + 10
       );
   }
+  if (ui->speler_1->y() > this->height())
+    {
+      //Als poppetje1 zijn y-cordinaten groter zijn de de hoogte,
+      //dan moet 'ie weer omhoog worden gezet
+      ui->speler_1->move(
+        ui->speler_1->x(),
+        this->height() - 1
+      );
+   }
   //Links
   if (e->key() == Qt::Key_Left)
   {
@@ -49,4 +74,11 @@ void hoofdscherm::keyPressEvent(QKeyEvent * e)
       ui->speler_1->y()
   );
   }
+  if (ui->speler_1->x() < 0)
+  {
+    ui->speler_1->move(
+      ui->speler_1->x() + 10,
+      ui->speler_1->y()
+    );
+ }
 }
