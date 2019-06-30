@@ -63,7 +63,7 @@ void hoofdscherm::keyPressEvent(QKeyEvent * e)
       //dan moet 'ie weer omhoog worden gezet
       ui->speler_1->move(
         ui->speler_1->x(),
-        this->height() - 1
+        ui->speler_1->y() - 20
       );
    }
   //Links
@@ -77,7 +77,7 @@ void hoofdscherm::keyPressEvent(QKeyEvent * e)
   if (ui->speler_1->x() < 0)
   {
     ui->speler_1->move(
-      ui->speler_1->x() + 10,
+      ui->speler_1->x() + 20,
       ui->speler_1->y()
     );
  }
