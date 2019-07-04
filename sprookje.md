@@ -17,7 +17,7 @@ Altijd als ze op bezoek kwamen vlogen ze naar de wolk.
 hoi
 
 En toen belden ze altijd precies op tijd aan!!!
-hoi tom en rhoan
+Hoi Tom de mot en Rohan de haan
 
 Het stelletje vonden ze heel erg leuk.
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -34,5 +34,9 @@ maar op een dag ging er iets fout op een bliksem fits en de Russische draak die 
 En en de meisjes draak leefde nog lang en verdrietig 
 
 En en de meisjes draak leefden nog lang en gelukkig wat ze hield eigenlijkhellemaal niet van die draak 
+<<<<<<< HEAD
 
 dit is een voorbeeld
+=======
+q
+>>>>>>> 3dc2bd5bfe2844cde6098f3766dc241887ced76f

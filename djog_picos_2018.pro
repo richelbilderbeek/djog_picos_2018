@@ -75,4 +75,3 @@ QMAKE_CXXFLAGS += -Wno-unused-variable
 
 RESOURCES += \
     djog_picos_2018.qrc
-
