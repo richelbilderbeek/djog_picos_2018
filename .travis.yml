@@ -1,12 +1,9 @@
 language: cpp
-dist: xenial
+dist: bionic
 compiler: gcc
 
-addons: 
-  apt: 
-    packages: libboost-all-dev
-
 install: 
+  - sudo apt update -qq
   # Qt5
   - sudo apt-get install -qq qt5-qmake qt5-default
   # cppcheck
