@@ -42,7 +42,7 @@ void hoofdscherm::keyPressEvent(QKeyEvent * e)
       ui->speler_1->y()
       );
   }
-  if (ui->speler_1->x() > this->width())
+  if (ui->speler_1->x() + 55 > this->width())
   {
     ui->speler_1->move(
       ui->speler_1->x() - 10,
@@ -57,13 +57,13 @@ void hoofdscherm::keyPressEvent(QKeyEvent * e)
       ui->speler_1->y() + 10
       );
   }
-  if (ui->speler_1->y() > this->height())
+  if (ui->speler_1->y() + 55 > this->height())
     {
       //Als poppetje1 zijn y-cordinaten groter zijn de de hoogte,
       //dan moet 'ie weer omhoog worden gezet
       ui->speler_1->move(
         ui->speler_1->x(),
-        ui->speler_1->y() - 20
+        ui->speler_1->y() - 10
       );
    }
   //Links
@@ -77,7 +77,7 @@ void hoofdscherm::keyPressEvent(QKeyEvent * e)
   if (ui->speler_1->x() < 0)
   {
     ui->speler_1->move(
-      ui->speler_1->x() + 20,
+      ui->speler_1->x() + 10,
       ui->speler_1->y()
     );
  }
