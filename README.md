@@ -8,7 +8,7 @@
 
 Gezamelijk project van Team Facilis, 
 op de donderdagavond van de [Dojo](https://github.com/richelbilderbeek/Dojo) 
-in schooljaar 2018-2019.
+in schooljaar 2018-2019-2020.
 
 De twee belangrijkste `git` branches:
 
