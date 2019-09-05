@@ -4,6 +4,11 @@ compiler: gcc
 
 install: 
   - sudo apt update -qq
+<<<<<<< HEAD
+=======
+  # Boost
+  - sudo apt install -qq libboost-all-dev
+>>>>>>> richel
   # Qt5
   - sudo apt-get install -qq qt5-qmake qt5-default
   # cppcheck
